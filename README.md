@@ -63,11 +63,9 @@
 #
 <div style="text-align: center;" align="center">
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=cdcfcgce&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=GIthub%20Status" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdcfcgce&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&custom_title=Linguagens%20Mais%20Ultilizadas" height="145" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cdcfcgce&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1&custom_title=GIthub%20Status" height="140" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cdcfcgce&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=2&theme=dark&hide_border=false&order=2" height="120" alt="languages graph"  />
 </div>
-
-###
 
 ###
 
